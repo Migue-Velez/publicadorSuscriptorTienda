@@ -1,9 +1,9 @@
 # PYTHON
-**/.venv/
-**/__pycache__/
-**/*.py[cod]
-**/.mypy_cache/
-**/.pytest_cache/
+**/.venv/__pycache__/
+**/.venv/Include/
+**/.venv/Lib/
+**/.venv/Scripts/
+**/.venv/*.py[cod]
 
 # Suscriptor 1
 # Archivos de compilación y binarios
