@@ -1,0 +1,32 @@
+# PYTHON
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/.mypy_cache/
+**/.pytest_cache/
+
+# Suscriptor 1
+# Archivos de compilación y binarios
+Suscriptor1/**/*.class
+Suscriptor1/**/*.jar
+Suscriptor1/**/*.war
+Suscriptor1/**/*.ear
+
+# Carpetas de compilación
+Suscriptor1/bin/
+Suscriptor1/build/
+Suscriptor1/out/
+
+# Configuraciones específicas de NetBeans
+Suscriptor1/nbproject/
+Suscriptor1/nbproject/private/
+Suscriptor1/nbbuild/
+Suscriptor1/.netbeans/
+
+# Archivos temporales y de caché
+Suscriptor1/*.log
+Suscriptor1/*.tmp
+Suscriptor1/*.swp
+Suscriptor1/*~
+Suscriptor1/.DS_Store
+Suscriptor1/Thumbs.db
